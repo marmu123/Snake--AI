@@ -2,3 +2,5 @@
 
 Self-learning snake
 Based on genetic algorithm combined with ANN
+
+![](giphy.gif)
